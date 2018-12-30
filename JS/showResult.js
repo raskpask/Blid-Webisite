@@ -1,5 +1,13 @@
 $(document).ready(function () {
+    show2018();
+
+    $("button#year2018").click(function () {
+        show2018();
+    });
     $("button#year2017").click(function () {
+        show2017();
+    });
+    function show2017() {
         $("#result").html("");
         $("#result").append('<table id="resultTable">\n' +
             '  <tr>\n' +
@@ -146,10 +154,8 @@ $(document).ready(function () {
             '    <td>3</td>\n' +
             '  </tr>\n'
         );
-
-
-    });
-    $("button#year2018").click(function () {
+    }
+    function show2018(){
         $("#result").html("");
         $("#result").append('<table id="resultTable">\n' +
             '  <tr>\n' +
@@ -251,6 +257,7 @@ $(document).ready(function () {
             '    <td>29:50</td>\n' +
             '    <td>1:54:46</td>\n' +
             '    <td>3</td>\n');
-    });
+    }
+
 
 });
