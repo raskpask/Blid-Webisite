@@ -28,9 +28,7 @@
             <img src="/img/5.jpg" width="300" height="200">
         </a>
 
-        <a href="/img/6.jpg">
-            <img src="/img/6.jpg" width="300" height="200">
-        </a>
+
         <a href="/img/7.jpg">
             <img src="/img/7.jpg" width="300" height="200">
         </a>
