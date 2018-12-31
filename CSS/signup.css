@@ -80,6 +80,7 @@ div.mobileForm{
 }
 #result{
     border: none;
+    overflow-x: scroll;
 }
 #resultTable{
     width: 100%;
