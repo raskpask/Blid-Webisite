@@ -69,11 +69,7 @@ a {
     li#startButton{
         display: none;
     }
-    #navbarComputer li:hover {background-color: #ddd;}
 
-    #menuButton:hover #navbarComputer {display: block;}
-
-    #menuButton:hover #menuButton {background-color: #3e8e41;}
     #navbarComputer {
         display: none;
     }
@@ -82,7 +78,7 @@ a {
         float: left;
         max-height: 30px;
         max-width: 30px;
-        margin-right: 10px;
+        margin-right: 15px;
     }
     #menuButtonDown{
         display: inline;
