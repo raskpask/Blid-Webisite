@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/navbarDesign.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/navbarDesign.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fragmnts/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/fragmnts/navbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/gallerypage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/gallerypage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/infopage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/infopage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/resultpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/resultpage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signuppage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signuppage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/navbar.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +50,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2794" />
-          <entry key="js" value="1634" />
+          <entry key="css" value="2819" />
+          <entry key="js" value="1711" />
           <entry key="php" value="6102" />
           <entry key="txt" value="8" />
           <entry key="xml" value="237" />
@@ -65,9 +59,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2794" />
+          <entry key="CSS" value="2819" />
           <entry key="HTML" value="17" />
-          <entry key="JavaScript" value="1630" />
+          <entry key="JavaScript" value="1707" />
           <entry key="PHP" value="6089" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="237" />
@@ -123,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fragmnts/navbar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="187">
+              <caret line="16" column="120" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="120" />
             </state>
           </provider>
         </entry>
@@ -150,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/navbarDesign.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+            <state relative-caret-position="646">
+              <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -159,17 +153,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/navbar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="107" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/showPhoto.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -249,8 +234,8 @@
         <option value="$PROJECT_DIR$/pages/homepage.php" />
         <option value="$PROJECT_DIR$/pages/infopage.php" />
         <option value="$PROJECT_DIR$/pages/signuppage.php" />
-        <option value="$PROJECT_DIR$/CSS/navbarDesign.css" />
         <option value="$PROJECT_DIR$/fragmnts/navbar.php" />
+        <option value="$PROJECT_DIR$/CSS/navbarDesign.css" />
         <option value="$PROJECT_DIR$/JS/navbar.js" />
       </list>
     </option>
@@ -363,12 +348,12 @@
       <workItem from="1544373490483" duration="16769000" />
       <workItem from="1545760052910" duration="16055000" />
       <workItem from="1546208367921" duration="5656000" />
-      <workItem from="1546263147782" duration="6035000" />
+      <workItem from="1546263147782" duration="7363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79524000" />
+    <option name="totallyTimeSpent" value="80852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -583,22 +568,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/navbarDesign.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        <state relative-caret-position="646">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fragmnts/navbar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="187">
+          <caret line="16" column="120" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="120" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/navbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="107" selection-start-line="12" selection-start-column="107" selection-end-line="12" selection-end-column="107" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>

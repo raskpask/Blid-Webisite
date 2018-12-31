@@ -40,7 +40,12 @@ a {
 #menuButton{
     display: none;
     max-width: 30px;
+    max-height: 30px;
+}
+#menuButtonDown{
+    display: none;
     max-width: 30px;
+    max-height: 30px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -73,6 +78,13 @@ a {
         display: none;
     }
     #menuButton{
+        display: inline;
+        float: left;
+        max-height: 30px;
+        max-width: 30px;
+        margin-right: 10px;
+    }
+    #menuButtonDown{
         display: inline;
         float: left;
         max-height: 30px;
