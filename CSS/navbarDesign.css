@@ -39,7 +39,10 @@ a {
 }
 #menuButton{
     display: none;
+    max-width: 30px;
+    max-width: 30px;
 }
+
 @media only screen and (max-width: 600px) {
 
     li {
@@ -53,10 +56,19 @@ a {
     }
     li#startButtonPhone{
         display: inline;
+        float: left;
+        padding: 10px;
+        font-size: 30px;
+        margin-left: 20px;
     }
     li#startButton{
         display: none;
     }
+    #navbarComputer li:hover {background-color: #ddd;}
+
+    #menuButton:hover #navbarComputer {display: block;}
+
+    #menuButton:hover #menuButton {background-color: #3e8e41;}
     #navbarComputer {
         display: none;
     }
@@ -67,8 +79,9 @@ a {
         max-width: 30px;
         margin-right: 10px;
     }
-    #menuButton:hover #navbarComputer{
+    li#startButtonPhone:hover #navbarComputer{
         display: block;
+        color: #1a1a1a;
     }
 }
 

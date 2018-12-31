@@ -18,6 +18,8 @@
     <link rel="stylesheet" type="text/css" href="../CSS/mainDesign.css"/>
     <link rel="stylesheet" type="text/css" href="../CSS/signup.css"/>
     <link rel="stylesheet" type="text/css" href="../CSS/footer.css"/>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="../JS/navbar.js"></script>
     <title>Glyxnäs Multisport</title>
     <link rel="icon" href="/img/logo.png">
 </head>

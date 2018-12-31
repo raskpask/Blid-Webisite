@@ -11,20 +11,18 @@
 
 <body>
 
-<ul>
+<ul id="navbar">
 
 
-    <li id="startButtonPhone"> <img src="/img/menu.png" id="menuButton" > <a href='/Index.php' id='navbutton'> Glyxnäs Multisport </a> </li>
+    <li>  <img src="/img/menu.png" id="menuButton" > <a href='/Index.php' id='navbutton'>  Glyxnäs Multisport </a> </li>
     <span id="navbarComputer">
-    <li id="startButton"> <a href='/Index.php' id='navbutton'> Startsida </a> </li>
     <li> <a href='/links/gallery.php' id='navbutton'> Bilder </a> </li>
     <li> <a href='/links/signup.php' id='navbutton'> Anmälan/Anmälda Lag </a> </li>
     <li> <a href='/links/results.php' id='navbutton'> Resultat </a> </li>
     <li> <a href='/links/info.php' id='navbutton'> Info </a> </li>
     </span>
-    <span id="navbarComputer">
 
-    </span>
 </ul>
 </body>
+
 <html>
