@@ -91,7 +91,7 @@
 
             </div>
         </form>
-        <div id="result">
+        <div class="registeredTeams">
             <h2>Anmälda Lag</h2>
 
             <table id="result">
