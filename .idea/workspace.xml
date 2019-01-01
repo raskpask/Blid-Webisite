@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fragmnts/staffRegistrations.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/signup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teams/staff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Teams/staff.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/signuppage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signuppage.php" afterDir="false" />
-    </list>
+    <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
           <entry key="css" value="3020" />
           <entry key="js" value="1815" />
           <entry key="php" value="6716" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="13" />
           <entry key="xml" value="237" />
         </counts>
       </usages-collector>
@@ -65,7 +59,7 @@
           <entry key="HTML" value="17" />
           <entry key="JavaScript" value="1811" />
           <entry key="PHP" value="6703" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="XML" value="237" />
         </counts>
       </usages-collector>
@@ -98,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -130,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/signup.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2482">
@@ -172,6 +166,7 @@
       <find>mar</find>
       <find>margi</find>
       <find>div</find>
+      <find>border</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -231,10 +226,10 @@
         <option value="$PROJECT_DIR$/Model/teamEntry.php" />
         <option value="$PROJECT_DIR$/Model/staffEntry.php" />
         <option value="$PROJECT_DIR$/Model/registerStaff.php" />
-        <option value="$PROJECT_DIR$/Teams/staff.txt" />
         <option value="$PROJECT_DIR$/fragmnts/staffRegistrations.php" />
         <option value="$PROJECT_DIR$/pages/signuppage.php" />
         <option value="$PROJECT_DIR$/CSS/signup.css" />
+        <option value="$PROJECT_DIR$/Teams/staff.txt" />
       </list>
     </option>
   </component>
@@ -274,6 +269,11 @@
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="Teams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,12 +332,12 @@
       <workItem from="1545760052910" duration="16055000" />
       <workItem from="1546208367921" duration="5656000" />
       <workItem from="1546263147782" duration="8588000" />
-      <workItem from="1546347005646" duration="6131000" />
+      <workItem from="1546347005646" duration="6303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88208000" />
+    <option name="totallyTimeSpent" value="88380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -588,9 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fragmnts/staffRegistrations.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -618,6 +615,9 @@
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
