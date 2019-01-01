@@ -48,7 +48,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2953" />
+          <entry key="css" value="2962" />
           <entry key="js" value="1815" />
           <entry key="php" value="6565" />
           <entry key="txt" value="12" />
@@ -57,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2953" />
+          <entry key="CSS" value="2962" />
           <entry key="HTML" value="17" />
           <entry key="JavaScript" value="1811" />
           <entry key="PHP" value="6552" />
@@ -119,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/signup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+            <state relative-caret-position="823">
+              <caret line="199" column="28" selection-start-line="199" selection-start-column="28" selection-end-line="199" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -343,12 +343,12 @@
       <workItem from="1545760052910" duration="16055000" />
       <workItem from="1546208367921" duration="5656000" />
       <workItem from="1546263147782" duration="8588000" />
-      <workItem from="1546347005646" duration="4079000" />
+      <workItem from="1546347005646" duration="4155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86156000" />
+    <option name="totallyTimeSpent" value="86232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -623,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/signup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+        <state relative-caret-position="823">
+          <caret line="199" column="28" selection-start-line="199" selection-start-column="28" selection-end-line="199" selection-end-column="28" />
         </state>
       </provider>
     </entry>
