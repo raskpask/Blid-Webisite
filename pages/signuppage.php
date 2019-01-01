@@ -69,6 +69,9 @@
                     <label for="user"><b>Löpning</b></label>
                     <input type="text" placeholder="Skriv in deltagare" name="userLöpning" required>
 
+                    <label for="user"><span id="commentText"><b>Kommentar</b></span></label>
+                    <input type="text" placeholder="Skriv en kommentar" name="comment" required>
+
                     <div class="clearfix">
                         <button type="button" onclick="document.getElementById('teamRegister').style.display='none'"
                                 class="cancelbtn">Avbryt
@@ -131,13 +134,23 @@
                     <th><b>Simning</b></th>
                     <th><b>Cykling</b></th>
                     <th><b>Löpning</b></th>
+                    <th><b>Kommentar</b></th>
                 </tr>
 
                 <?php
                 include '/xampp/htdocs/fragmnts/registrations.php';
                 ?>
             </table>
+            <h2><br>Anmälda personer</h2>
+            <table id="resultStaff">
+                <tr class="header">
+                    <th><b>Namn</b></th>
+                </tr>
 
+                <?php
+                include '/xampp/htdocs/fragmnts/personRegistrations.php';
+                ?>
+            </table>
             <h2><br>Anmälda funktionärer</h2>
             <table id="resultStaff">
                 <tr class="header">

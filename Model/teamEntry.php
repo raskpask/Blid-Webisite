@@ -10,18 +10,23 @@ class teamEntry
     private $userSimning;
     private $userCykling;
     private $userLopning;
+    private $comment;
 
-    public function __construct($userNamn,$userPaddling, $userSimning, $userCykling, $userLopning)
+    public function __construct($userNamn,$userPaddling, $userSimning, $userCykling, $userLopning,$comment)
     {
         $this->userNamn = $userNamn;
         $this->userPaddling = $userPaddling;
         $this->userSimning = $userSimning;
         $this->userCykling = $userCykling;
         $this->userLopning = $userLopning;
+        $this->comment = $comment;
     }
 
 
-
+    public function getComment()
+    {
+        return $this->comment;
+    }
     /**
      * @return mixed
      */

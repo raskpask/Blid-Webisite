@@ -3,7 +3,7 @@ require_once 'teamEntry.php';
 
 
     $filename = '../Teams/teams.txt';
-        $entry = new teamEntry($_POST['userNamn'],$_POST['userPaddling'],$_POST['userSimning'],$_POST['userCykling'],$_POST['userLöpning']);
+        $entry = new teamEntry($_POST['userNamn'],$_POST['userPaddling'],$_POST['userSimning'],$_POST['userCykling'],$_POST['userLöpning'],$_POST['comment']);
         file_put_contents($filename, serialize($entry) . ";\n", FILE_APPEND);
 
 

@@ -15,6 +15,7 @@ for ($i = count($entries) - 1; $i >= 0; $i--) {
     <td>" .$entry->getUserSimning() ."</td>
     <td>" .$entry->getUserCykling() ."</td>
     <td>" .$entry->getUserLopning() ."</td>
+    <td>" .$entry->getComment() ."</td>
   </tr>";
     }
 }

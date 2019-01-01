@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="" />
+    <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Teams/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fragmnts/personRegistrations.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/registerPerson.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/registerPerson.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/teamEntry.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/teamEntry.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teams/teams.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Teams/teams.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fragmnts/registrations.php" beforeDir="false" afterPath="$PROJECT_DIR$/fragmnts/registrations.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/signuppage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signuppage.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +23,8 @@
     <session id="1891764058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.21" value="1" />
@@ -20,46 +32,46 @@
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="57" />
+          <entry key="css" value="58" />
           <entry key="jpg" value="6" />
           <entry key="js" value="6" />
-          <entry key="php" value="151" />
-          <entry key="txt" value="20" />
+          <entry key="php" value="158" />
+          <entry key="txt" value="21" />
           <entry key="xml" value="2" />
           <entry key="xsd" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="57" />
+          <entry key="CSS" value="58" />
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="6" />
-          <entry key="PHP" value="151" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PHP" value="158" />
+          <entry key="PLAIN_TEXT" value="21" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3020" />
+          <entry key="css" value="3044" />
           <entry key="js" value="1815" />
-          <entry key="php" value="6716" />
-          <entry key="txt" value="13" />
+          <entry key="php" value="6910" />
+          <entry key="txt" value="17" />
           <entry key="xml" value="237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3020" />
-          <entry key="HTML" value="17" />
+          <entry key="CSS" value="3044" />
+          <entry key="HTML" value="18" />
           <entry key="JavaScript" value="1811" />
-          <entry key="PHP" value="6703" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PHP" value="6896" />
+          <entry key="PLAIN_TEXT" value="17" />
           <entry key="XML" value="237" />
         </counts>
       </usages-collector>
@@ -78,30 +90,30 @@
         <entry file="file://$PROJECT_DIR$/fragmnts/registrations.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fragmnts/staffRegistrations.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fragmnts/personRegistrations.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/signuppage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="139" selection-start-line="139" selection-end-line="139" />
+            <state relative-caret-position="1122">
+              <caret line="71" column="59" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -109,44 +121,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Model/teamEntry.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="23" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="408">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Model/staffEntry.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/signup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2482">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="347">
+              <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="154" selection-start-line="5" selection-start-column="154" selection-end-line="5" selection-end-column="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Model/registerPerson.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Teams/teams.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/infoDesign.css">
+        <entry file="file://$PROJECT_DIR$/Teams/person.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="45" />
+            <state>
+              <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -179,8 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pancake.php" />
-        <option value="$PROJECT_DIR$/meatballs.php" />
         <option value="$PROJECT_DIR$/pancakepage.php" />
         <option value="$PROJECT_DIR$/meatballspage.php" />
         <option value="$PROJECT_DIR$/delete-entry.php" />
@@ -200,9 +215,6 @@
         <option value="$PROJECT_DIR$/CSS/frontpageDesign.css" />
         <option value="$PROJECT_DIR$/CSS/footerDesign.css" />
         <option value="$PROJECT_DIR$/CSS/footer.css" />
-        <option value="$PROJECT_DIR$/Model/register.php" />
-        <option value="$PROJECT_DIR$/fragmnts/registrations.php" />
-        <option value="$PROJECT_DIR$/Model/registerPerson.php" />
         <option value="$PROJECT_DIR$/links/signup.php" />
         <option value="$PROJECT_DIR$/links/info.php" />
         <option value="$PROJECT_DIR$/links/gallery.php" />
@@ -222,14 +234,19 @@
         <option value="$PROJECT_DIR$/fragmnts/navbar.php" />
         <option value="$PROJECT_DIR$/JS/navbar.js" />
         <option value="$PROJECT_DIR$/CSS/navbarDesign.css" />
-        <option value="$PROJECT_DIR$/Teams/teams.txt" />
-        <option value="$PROJECT_DIR$/Model/teamEntry.php" />
         <option value="$PROJECT_DIR$/Model/staffEntry.php" />
         <option value="$PROJECT_DIR$/Model/registerStaff.php" />
         <option value="$PROJECT_DIR$/fragmnts/staffRegistrations.php" />
+        <option value="$PROJECT_DIR$/Model/registerPerson.php" />
+        <option value="$PROJECT_DIR$/fragmnts/personRegistrations.php" />
+        <option value="$PROJECT_DIR$/Model/register.php" />
+        <option value="$PROJECT_DIR$/Model/teamEntry.php" />
+        <option value="$PROJECT_DIR$/fragmnts/registrations.php" />
+        <option value="$PROJECT_DIR$/Teams/staff.txt" />
+        <option value="$PROJECT_DIR$/Teams/teams.txt" />
+        <option value="$PROJECT_DIR$/Teams/person.txt" />
         <option value="$PROJECT_DIR$/pages/signuppage.php" />
         <option value="$PROJECT_DIR$/CSS/signup.css" />
-        <option value="$PROJECT_DIR$/Teams/staff.txt" />
       </list>
     </option>
   </component>
@@ -247,12 +264,14 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,6 +287,16 @@
             <path>
               <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="fragmnts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,6 +308,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,17 +318,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Links" />
+      <recent name="C:\xampp\htdocs\img" />
+      <recent name="C:\xampp\htdocs\CSS" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\pages" />
       <recent name="C:\xampp\htdocs\Model" />
       <recent name="C:\xampp\htdocs" />
       <recent name="C:\xampp\htdocs\Links" />
       <recent name="C:\xampp\htdocs\fragmnts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Links" />
-      <recent name="C:\xampp\htdocs\img" />
-      <recent name="C:\xampp\htdocs\CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,18 +362,19 @@
       <workItem from="1545760052910" duration="16055000" />
       <workItem from="1546208367921" duration="5656000" />
       <workItem from="1546263147782" duration="8588000" />
-      <workItem from="1546347005646" duration="6303000" />
+      <workItem from="1546347005646" duration="6765000" />
+      <workItem from="1546372683676" duration="1308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88380000" />
+    <option name="totallyTimeSpent" value="90150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16577825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,8 +423,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Calendar.php" />
-    <entry file="file://$PROJECT_DIR$/login_page.php" />
     <entry file="file://$USER_HOME$/Desktop/htdocs seminar 2/homepage.php" />
     <entry file="file://$PROJECT_DIR$/JS/photogallery.js" />
     <entry file="file://$PROJECT_DIR$/img/8.jpg">
@@ -539,34 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teams/teams.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model/teamEntry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="23" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model/staffEntry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model/registerPerson.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="1" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Model/registerStaff.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -574,10 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Model/register.php">
+    <entry file="file://$PROJECT_DIR$/Model/staffEntry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -590,34 +591,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fragmnts/staffRegistrations.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="272">
+          <caret line="16" column="2" lean-forward="true" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/registerPerson.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="154" selection-start-line="5" selection-start-column="154" selection-end-line="5" selection-end-column="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model/teamEntry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fragmnts/personRegistrations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fragmnts/registrations.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teams/teams.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teams/person.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/signuppage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="1122">
+          <caret line="71" column="59" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/signup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2482">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="347">
+          <caret line="92" column="20" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
