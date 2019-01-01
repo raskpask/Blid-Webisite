@@ -1,8 +1,12 @@
 img{
     align-content: center;
     align-items: center;
-    padding: 70px;
+    
     padding-top: 0px;
+}
+.main{
+
+    background-image: url("/img/frontpage.jpg");
 }
 @media only screen and (max-width: 600px) {
     img{

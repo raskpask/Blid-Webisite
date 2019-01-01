@@ -31,7 +31,7 @@ include '/xampp/htdocs/fragmnts/navbar.php';
 </div>
 <div class="main">
 
-<img src="/img/frontpage.jpg" width="90%" >
+<img src="/img/frontpage.jpg" width="100%" >
 </div>
 <div class="footer">
     <?php
