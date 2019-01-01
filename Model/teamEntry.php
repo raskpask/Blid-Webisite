@@ -20,6 +20,8 @@ class teamEntry
         $this->userLopning = $userLopning;
     }
 
+
+
     /**
      * @return mixed
      */

@@ -33,66 +33,79 @@
     </div>
     <div class="main">
 
-            <div class="signupform" id="form">
-                <h2>Anmäl ditt lag här!</h2>
-                <p>Fyll i deltagare för alla sträckor för att anmäla ett lag!</p>
-                <form action="../Model/register.php" method="post">
-                <hr>
 
-                    <div class="computerForm">
-                <span class="form"><label for="user"><b>Lagnamn: </b></label>
-                <input type="text" placeholder="Skriv in lagnamn" name="userNamn" required></span>
+        <h2>Anmälan</h2>
 
-                    <span class="form"><label for="user"><b>Paddling: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userPaddling" required></span>
+        <button onclick="document.getElementById('teamRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl lag</button>
+        <button onclick="document.getElementById('personRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl Person</button>
+        <button onclick="document.getElementById('staffRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl dig som funktionär</button>
 
-                    <span class="form"><label for="user"><b> Simning: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userSimning" required></span>
+        <div id="teamRegister" class="modal">
+            <span onclick="document.getElementById('teamRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <form action="../Model/register.php" method="post">
+                <div class="containerS">
+                    <h2>Anmäl lag</h2>
+                    <p>Fyll i alla textfält för att anmäla ett lag</p>
+                    <hr>
+                    <label for="user"><b>Lagnamn</b></label>
+                    <input type="text" placeholder="Skriv in lagnamn" name="userNamn" required>
 
-                        <span class="form"><label for="user"><b> Cykling: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userCykling" required></span>
+                    <label for="user"><b>Paddling</b></label>
+                    <input type="text" placeholder="Skriv in deltagare" name="userPaddling" required>
 
-                            <span class="form"><label for="user"><b> Löpning: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userLöpning" required></span>
+                    <label for="user"><b>Simning</b></label>
+                    <input type="text" placeholder="Skriv in deltagare" name="userSimning" required>
+
+                    <label for="user"><b>Cykling</b></label>
+                    <input type="text" placeholder="Skriv in deltagare" name="userCykling" required>
+
+                    <label for="user"><b>Löpning</b></label>
+                    <input type="text" placeholder="Skriv in deltagare" name="userLöpning" required>
+
+                    <div class="clearfix">
+                        <button type="button" onclick="document.getElementById('teamRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="submit" class="signupbtn">Anmäl</button>
                     </div>
+                </div>
+            </form>
+        </div>
 
-                    <div class="mobileForm">
+        <div id="personRegister" class="modal">
+            <span onclick="document.getElementById('personRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <form action="../Model/registerPerson.php" method="post">
+                <div class="containerS">
+                    <h2>Anmäl Person</h2>
+                    <p>Fyll förnamn och efternamn för att anmäla dig</p>
+                    <hr>
+                    <label for="user"><b>Namn</b></label>
+                    <input type="text" placeholder="Förnamn och efternamn" name="Name" required>
 
-                        <div class="form"><label for="user"><b>Lagnamn: </b></label>
-                <input type="text" placeholder="Skriv in lagnamn" name="userNamn" required></div>
-
-                        <div class="form"><label for="user"><b>Paddling: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userPaddling" required></div>
-
-                        <div class="form"><label for="user"><b> Simning: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userSimning" required></div>
-
-                        <div class="form"><label for="user"><b> Cykling: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userCykling" required></div>
-
-                        <div class="form"><label for="user"><b> Löpning: </b></label>
-                <input type="text" placeholder="Skriv in deltagare" name="userLöpning" required></div>
+                    <div class="clearfix">
+                        <button type="button" onclick="document.getElementById('personRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="submit" class="signupbtn">Anmäl</button>
                     </div>
-                <hr>
+                </div>
+            </form>
+        </div>
 
+        <div id="staffRegister" class="modal">
+            <span onclick="document.getElementById('staffRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <form action="../Model/registerStaff.php" method="post">
+                <div class="containerS">
+                    <h2>Anmäl dig som funktionär</h2>
+                    <p>Fyll förnamn och efternamn för att anmäla dig som funktionär</p>
+                    <hr>
+                    <label for="user"><b>Namn</b></label>
+                    <input type="text" placeholder="Förnamn och efternamn" name="Name" required>
 
-                <button type="submit" class="registerbtn">Anmäl</button>
-                </form>
+                    <div class="clearfix">
+                        <button type="button" onclick="document.getElementById('staffRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="submit" class="signupbtn">Anmäl</button>
+                    </div>
+                </div>
+            </form>
+        </div>
 
-            </div>
-
-        <form action="../Model/registerPerson.php" method="post">
-            <div class="signupform">
-                <h2>Anmäl dig induviduellt här!</h2>
-                <p>Skriv in förnamn och efternamn för att anmälda dig!</p>
-                <hr>
-                <label for="user"><b>Förnamn och Efternamn </b></label>
-                <input type="text" placeholder="Skriv in förnamn och efternamn" name="Name" required>
-                <hr>
-                <button type="submit" class="registerbtn">Anmäl</button>
-
-            </div>
-        </form>
         <div id="result">
             <h2>Anmälda Lag</h2>
 
@@ -105,9 +118,9 @@
                     <th><b>Löpning</b></th>
                 </tr>
 
-            <?php
-            include '/xampp/htdocs/fragmnts/registrations.php';
-            ?>
+                <?php
+                include '/xampp/htdocs/fragmnts/registrations.php';
+                ?>
             </table>
         </div>
     </div>
