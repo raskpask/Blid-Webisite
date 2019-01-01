@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee96f40-e2fc-4b4e-b171-43fd71677483" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Model/registerStaff.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/staffEntry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teams/staff.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/signup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/teamEntry.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/teamEntry.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/signuppage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/signuppage.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2907" />
+          <entry key="css" value="2946" />
           <entry key="js" value="1815" />
           <entry key="php" value="6565" />
           <entry key="txt" value="12" />
@@ -63,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2907" />
+          <entry key="CSS" value="2946" />
           <entry key="HTML" value="17" />
           <entry key="JavaScript" value="1811" />
           <entry key="PHP" value="6552" />
@@ -85,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/signuppage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="40" column="109" selection-start-line="40" selection-start-column="109" selection-end-line="40" selection-end-column="109" />
+            <state relative-caret-position="170">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#body#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -108,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/Model/teamEntry.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
-              <caret line="37" column="23" lean-forward="true" selection-end-line="63" selection-end-column="1" />
+              <caret line="37" column="23" selection-end-line="63" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -125,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/signup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="823">
-              <caret line="189" column="21" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
+            <state relative-caret-position="663">
+              <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -135,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/Teams/teams.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -144,7 +139,7 @@
         <entry file="file://$PROJECT_DIR$/CSS/infoDesign.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="45" />
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -349,12 +344,12 @@
       <workItem from="1545760052910" duration="16055000" />
       <workItem from="1546208367921" duration="5656000" />
       <workItem from="1546263147782" duration="8588000" />
-      <workItem from="1546347005646" duration="2950000" />
+      <workItem from="1546347005646" duration="3885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85027000" />
+    <option name="totallyTimeSpent" value="85962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -560,24 +555,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/infoDesign.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Teams/teams.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Model/teamEntry.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
-          <caret line="37" column="23" lean-forward="true" selection-end-line="63" selection-end-column="1" />
+          <caret line="37" column="23" selection-end-line="63" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -612,10 +600,17 @@
     <entry file="file://$PROJECT_DIR$/Teams/staff.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/infoDesign.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/signuppage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="40" column="109" selection-start-line="40" selection-start-column="109" selection-end-line="40" selection-end-column="109" />
+        <state relative-caret-position="170">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#button#0;n#body#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -629,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/signup.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="189" column="21" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
+        <state relative-caret-position="663">
+          <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
         </state>
       </provider>
     </entry>

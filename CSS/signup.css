@@ -8,7 +8,13 @@ p{
     text-align: center;
     padding: 30px;
 }
-
+.containerSignup{
+    background-image: url("/img/paddling.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #result {
     width: 100%; /* Full-width */
     border: 1px solid #ddd; /* Add a grey border */
@@ -100,7 +106,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+   
     opacity: 0.9;
 
 }

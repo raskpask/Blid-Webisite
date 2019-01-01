@@ -25,7 +25,7 @@
 </head>
 
 <body>
-<div class="container">
+<div class="containerSignup">
     <div class="navbar">
         <?php
         include '/xampp/htdocs/fragmnts/navbar.php';
