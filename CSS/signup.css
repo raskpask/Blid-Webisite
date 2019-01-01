@@ -2,6 +2,7 @@ h2{
     font-weight: bold;
     font-size: 4vw;
     text-align: center;
+    margin-bottom: 20px;
 }
 p{
     font-size: 2vw;
@@ -17,7 +18,7 @@ p{
 }
 #result {
     width: 100%; /* Full-width */
-    border: 1px solid #ddd; /* Add a grey border */
+
     font-size: 18px; /* Increase font-size */
 }
 #result td, #result th {
@@ -61,13 +62,16 @@ p{
 .btn-group button:hover {
     color: black;
 }
-#result{
-    border: none;
-    overflow-x: scroll;
-}
+
 #resultTable{
     width: 100%;
     margin-top: 15px;
+}
+#resultStaff{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    overflow-x: hidden;
 }
 @media only screen and (max-width: 600px) {
     div.mobileForm{
@@ -185,20 +189,18 @@ hr {
     display: table;
 }
 #registerButton{
-    margin-left: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 30px;
 }
 /* Change styles for cancel button and signup button on extra small screens */
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 600px) {
     .cancelbtn, .signupbtn {
         width: 100%;
     }
-}
-@media screen and (max-width: 600px) {
-    #registerButton{
-        display: block;
-        text-align: center;
-        align-items: center;
-
-        margin-bottom: 30px;
+    #result{
+        border: none;
+        overflow-x: scroll;
     }
 }

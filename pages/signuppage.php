@@ -36,12 +36,19 @@
 
         <h2>Anmälan</h2>
 
-        <button onclick="document.getElementById('teamRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl lag</button>
-        <button onclick="document.getElementById('personRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl Person</button>
-        <button onclick="document.getElementById('staffRegister').style.display='block'" style="width:auto;" id="registerButton">Anmäl dig som funktionär</button>
+        <button onclick="document.getElementById('teamRegister').style.display='block'" style="width:auto;"
+                id="registerButton">Anmäl lag
+        </button>
+        <button onclick="document.getElementById('personRegister').style.display='block'" style="width:auto;"
+                id="registerButton">Anmäl Person
+        </button>
+        <button onclick="document.getElementById('staffRegister').style.display='block'" style="width:auto;"
+                id="registerButton">Anmäl dig som funktionär
+        </button>
 
         <div id="teamRegister" class="modal">
-            <span onclick="document.getElementById('teamRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <span onclick="document.getElementById('teamRegister').style.display='none'" class="close"
+                  title="Avbryt registrering">&times;</span>
             <form action="../Model/register.php" method="post">
                 <div class="containerS">
                     <h2>Anmäl lag</h2>
@@ -63,7 +70,9 @@
                     <input type="text" placeholder="Skriv in deltagare" name="userLöpning" required>
 
                     <div class="clearfix">
-                        <button type="button" onclick="document.getElementById('teamRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="button" onclick="document.getElementById('teamRegister').style.display='none'"
+                                class="cancelbtn">Avbryt
+                        </button>
                         <button type="submit" class="signupbtn">Anmäl</button>
                     </div>
                 </div>
@@ -71,7 +80,8 @@
         </div>
 
         <div id="personRegister" class="modal">
-            <span onclick="document.getElementById('personRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <span onclick="document.getElementById('personRegister').style.display='none'" class="close"
+                  title="Avbryt registrering">&times;</span>
             <form action="../Model/registerPerson.php" method="post">
                 <div class="containerS">
                     <h2>Anmäl Person</h2>
@@ -81,7 +91,9 @@
                     <input type="text" placeholder="Förnamn och efternamn" name="Name" required>
 
                     <div class="clearfix">
-                        <button type="button" onclick="document.getElementById('personRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="button" onclick="document.getElementById('personRegister').style.display='none'"
+                                class="cancelbtn">Avbryt
+                        </button>
                         <button type="submit" class="signupbtn">Anmäl</button>
                     </div>
                 </div>
@@ -89,7 +101,8 @@
         </div>
 
         <div id="staffRegister" class="modal">
-            <span onclick="document.getElementById('staffRegister').style.display='none'" class="close" title="Avbryt registrering">&times;</span>
+            <span onclick="document.getElementById('staffRegister').style.display='none'" class="close"
+                  title="Avbryt registrering">&times;</span>
             <form action="../Model/registerStaff.php" method="post">
                 <div class="containerS">
                     <h2>Anmäl dig som funktionär</h2>
@@ -99,7 +112,9 @@
                     <input type="text" placeholder="Förnamn och efternamn" name="Name" required>
 
                     <div class="clearfix">
-                        <button type="button" onclick="document.getElementById('staffRegister').style.display='none'" class="cancelbtn">Avbryt</button>
+                        <button type="button" onclick="document.getElementById('staffRegister').style.display='none'"
+                                class="cancelbtn">Avbryt
+                        </button>
                         <button type="submit" class="signupbtn">Anmäl</button>
                     </div>
                 </div>
@@ -120,6 +135,17 @@
 
                 <?php
                 include '/xampp/htdocs/fragmnts/registrations.php';
+                ?>
+            </table>
+
+            <h2><br>Anmälda funktionärer</h2>
+            <table id="resultStaff">
+                <tr class="header">
+                    <th><b>Namn</b></th>
+                </tr>
+
+                <?php
+                include '/xampp/htdocs/fragmnts/staffRegistrations.php';
                 ?>
             </table>
         </div>
